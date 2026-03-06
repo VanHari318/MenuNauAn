@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         // Định danh bắt buộc: TH3 - [Họ tên Sinh viên] - [Mã SV]
-        title: const Text('TH3 - Nguyễn Văn A - 12345678'),
+        title: const Text('TH3 - Nguyễn Văn Hải - 2351060441'),
         backgroundColor: Colors.orange,
         actions: [
           IconButton(
