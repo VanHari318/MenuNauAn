@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083691584230",
+    "project_id": "menu-nau-an-4c004",
+    "storage_bucket": "menu-nau-an-4c004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083691584230:android:dd9f8237425cb3fd8e4927",
+        "android_client_info": {
+          "package_name": "com.example.menu_nau_an"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHX0hj8f5PQz0tRtTAUyMYcvC7XbbsvQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
